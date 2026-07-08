@@ -1,0 +1,232 @@
+.bg-info {
+  background: linear-gradient(45deg, #8c9df5, #eb75f4);
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background: #cfcfcf;
+}
+
+nav {
+  box-shadow: 0 2px 5px #ccc;
+}
+
+.hero {
+  background: linear-gradient(135deg, #dcd3f3, #f3d3d3);
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 18px;
+}
+
+.section {
+  padding: 60px 20px;
+}
+
+.skill-card,
+.project-card {
+  gap: 20px;
+  background: #989898;
+  width: 300px;
+  height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 10px;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  background: #000;
+}
+
+.col > .icons {
+  height: 400px;
+  width: 400px;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+
+/* Tablets (768px and below) */
+@media (max-width: 768px) {
+  .section {
+    padding: 40px 15px;
+  }
+
+  .hero {
+    padding: 60px 20px;
+  }
+
+  .hero h1 {
+    font-size: 36px;
+  }
+
+  .hero p {
+    font-size: 16px;
+  }
+
+  .skill-card,
+  .project-card {
+    width: 100%;
+    max-width: 300px;
+    margin: 10px auto;
+    height: auto;
+    min-height: 280px;
+  }
+
+  img {
+    height: 200px;
+    width: 200px;
+  }
+
+  #about .col-md-8 {
+    margin-top: 20px;
+  }
+
+  #about .col-md-8 a.btn {
+    display: inline-block;
+    margin-bottom: 8px;
+    margin-right: 8px;
+  }
+}
+
+/* Mobile Phones (576px and below) */
+@media (max-width: 576px) {
+  body {
+    font-size: 14px;
+  }
+
+  .section {
+    padding: 30px 12px;
+  }
+
+  .hero {
+    padding: 40px 15px;
+  }
+
+  .hero h1 {
+    font-size: 28px;
+    margin-bottom: 8px;
+  }
+
+  .hero p {
+    font-size: 14px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  h5 {
+    font-size: 16px;
+  }
+
+  .skill-card,
+  .project-card {
+    width: 100%;
+    max-width: none;
+    margin: 8px 0;
+    padding: 15px;
+    height: auto;
+    min-height: 250px;
+  }
+
+  img {
+    height: 160px;
+    width: 160px;
+  }
+
+  .col-md-4,
+  .col-md-6,
+  .col-lg-3,
+  .col-lg-4 {
+    width: 100% !important;
+  }
+
+  #about .row {
+    flex-direction: column;
+  }
+
+  #about .col-md-4 {
+    margin-bottom: 20px;
+  }
+
+  #about .col-md-8 a.btn {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-right: 0;
+  }
+
+  .card {
+    margin-bottom: 15px;
+  }
+
+  .navbar-brand {
+    font-size: 18px;
+  }
+
+  .nav-link {
+    font-size: 14px;
+  }
+
+  .contact-card {
+    padding: 12px;
+  }
+
+  .contact-card .form-control {
+    padding: 0.5rem 0.7rem;
+    font-size: 14px;
+  }
+
+  .contact-card .btn {
+    padding: 0.6rem 0.9rem;
+  }
+
+  footer {
+    padding: 15px 10px;
+    font-size: 12px;
+  }
+
+  .col > .icons {
+    height: 300px;
+    width: 300px;
+  }
+}
+
+/* Extra Small Devices (320px and below) */
+@media (max-width: 320px) {
+  .hero h1 {
+    font-size: 22px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  .skill-card,
+  .project-card {
+    padding: 12px;
+    margin: 5px 0;
+  }
+
+  #about .col-md-8 a.btn {
+    font-size: 12px;
+    padding: 0.5rem 0.8rem;
+  }
+}
