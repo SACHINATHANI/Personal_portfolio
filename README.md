@@ -82,7 +82,7 @@ Feedback and suggestions are welcome! Feel free to:
 ## Author
 
 **Sachin Athani**
-- Email: [Sachinathani02@gmail.com] (Sachinathani02@gmail.com)
+- Email: (Sachinathani02@gmail.com)
 - LinkedIn: [linkedin.com/in/sachin-athani-b9041b22b] (https://www.linkedin.com/in/sachin-athani-b9041b22b)
 - GitHub: [@SACHINATHANI] (https://github.com/SACHINATHANI)
 
