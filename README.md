@@ -26,7 +26,7 @@ A responsive and professional portfolio website showcasing my skills, projects, 
 
 ## Live Demo
 
-Visit the portfolio: [GitHub Pages Link] (Add after deploying)
+Visit the portfolio: [https://sachinathani.github.io/Personal_portfolio/]
 
 ## 📁 Project Structure
 
