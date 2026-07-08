@@ -100,7 +100,7 @@ Feedback and suggestions are welcome! Feel free to:
 
 For questions or issues, please contact me via:
 - Email: Sachinathani02@gmail.com
-- LinkedIn: [Connect on LinkedIn] ([LinkedIn](url))
+- LinkedIn: [Connect on LinkedIn] (https://www.linkedin.com/in/sachin-athani-b9041b22b)
 
 **Made with by Sachin Athani**
 
